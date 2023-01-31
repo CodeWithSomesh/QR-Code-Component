@@ -3,7 +3,7 @@ QR Code Component | Frontend Mentor Challenge
 
 
 
-📝Brief
+📝Brief Intro
 
 Your challenge is to build out this QR code component and get it looking as close to the design as possible.
 
